@@ -1,0 +1,5 @@
+Python2 script to interface with GPIO pins on Raspberry Pi.
+
+Class to initialise and then allow pins to turn on and off.
+
+When pins are attached to LED's this allows control of turning them on and off.
