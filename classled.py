@@ -1,5 +1,9 @@
 #!/usr/bin/python2
 
+# Ensure that RPi.GPIO library has been installed. 
+# This could be from package manager or from source code available at
+# https://code.google.com/p/raspberry-gpio-python/downloads/list
+
 from time import sleep
 import RPi.GPIO as GPIO
 
